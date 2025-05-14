@@ -36,7 +36,7 @@ Creo, sperimento, smonto e ricostruisco — sempre con il terminale aperto e un 
 
 ## 📫 Let's connect!
 
-- 🌍 Sito: [www.sagradelbosco.it](https://www.sagradelbosco.it)
+- 🌍 Sito: [www.sagradelbosco.it](https://sagradelbosco.it)
 - 📧 Email: palladino.danilo.04@gmail.com
 
 > 🧩 *“L'informatica non è una scienza più di quanto non lo sia la falegnameria.”* — Hal Abelson  
